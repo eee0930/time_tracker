@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/time_tracker/static/js/main.37f69b81.js",
+    "index.html": "/time_tracker/index.html",
+    "main.37f69b81.js.map": "/time_tracker/static/js/main.37f69b81.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.37f69b81.js"
+  ]
+}
